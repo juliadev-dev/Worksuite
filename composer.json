@@ -38,7 +38,7 @@
         "macellan/laravel-zip": "^1.0",
         "macsidigital/laravel-zoom": "^4.1",
         "mollie/laravel-mollie": "^2.0",
-        "nwidart/laravel-modules": "^7.0",
+        "nwidart/laravel-modules": "^8.3",
         "paragonie/random_compat": "~1.4",
         "paypal/rest-api-sdk-php": "*",
         "pcinaglia/laraupdater": "^1.0",
